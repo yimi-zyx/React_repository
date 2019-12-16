@@ -263,8 +263,8 @@ ReactDOM.render(
         {/* <Toggle/> */}
         {/* <Numberlist numbers={numbers}></Numberlist> */}
         {/* <Button /> */}
-        {/* <Contexts/> */}
-        <Button type="primary">Button</Button>
+        <Contexts/>
+        {/* <Button type="primary">Button</Button> */}
     </div>,
     document.getElementById('root')
 );
