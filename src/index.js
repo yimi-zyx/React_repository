@@ -260,7 +260,7 @@ ReactDOM.render(
         {/* <App /> */}
         {/* <Clock /> */}
         {/* <LoggingControl/> */}
-        {/* <Toggle/> */}
+        <Toggle/>
         {/* <Numberlist numbers={numbers}></Numberlist> */}
         {/* <Button /> */}
         <Contexts/>
