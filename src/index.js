@@ -264,7 +264,7 @@ ReactDOM.render(
         {/* <Numberlist numbers={numbers}></Numberlist> */}
         {/* <Button /> */}
         <Contexts/>
-        {/* <Button type="primary">Button</Button> */}
+        <Button type="primary">Button</Button>
     </div>,
     document.getElementById('root')
 );
